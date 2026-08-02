@@ -22,8 +22,6 @@ You're drowning in VC emails, investor articles, and fundraising resources scatt
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://propathacademy.gumroad.com/l/hzdlxv)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/bJe9ATaDd5wg8FG5bucZt3V)** — Secure checkout
 
 ## Installation
@@ -35,7 +33,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://propathacademy.gumroad.com/l/hzdlxv)
 
 ## License
 
